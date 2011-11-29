@@ -1,0 +1,8 @@
+---------------------------------------------
+Version 0.1
+---------------------------------------------
+Notes: Follow the SpaceInvaders 101 tutorial courtesy of www.cokeandcode.com.
+
+Product: A basic level of SpaceInvaders. Alien AI only moves side to side with aslow descent downwards gradually speeding up.
+
+Coming Next: Improve Alien AI to shoot back.
